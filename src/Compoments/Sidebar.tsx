@@ -15,7 +15,7 @@ export function Sidebar() {
 
             <div className={styles.profile}>
                 <Avatar 
-                    src="https://pps.whatsapp.net/v/t61.24694-24/343563815_762782155516575_7156750706163291634_n.jpg?ccb=11-4&oh=01_AdQAYX0yThbWl5n9Zvpqhk69dsvw-FgWcfHLtbdIS_Cd6g&oe=649F79CB"
+                   src='https://pps.whatsapp.net/v/t61.24694-24/356484376_234695209366523_1297059507606636774_n.jpg?ccb=11-4&oh=01_AdQYJkfHSzq34aqgvHSKUPrVSF2RxJ9rttzAUlFxVt3IdA&oe=64AAF736'
                 />
 
                 <strong>

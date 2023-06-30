@@ -26,8 +26,8 @@ const posts: PostType[] = [
   {
     id: 2,
     author: {
-      avatarUrl: "https://pps.whatsapp.net/v/t61.24694-24/312270297_652761882983851_4427491813413181209_n.jpg?ccb=11-4&oh=01_AdQBUQS3gQO88llTr40wPjoHKjo5K7lXGA7Heaf_T_ZIOA&oe=649E1B8C",
-      name: "Jorge Silva",
+      avatarUrl: "https://pps.whatsapp.net/v/t61.24694-24/354655950_1466522980755497_4653450325581373992_n.jpg?ccb=11-4&oh=01_AdQc3JIrIWHnSD2xUJ9GMI7GyhohPjAn8SVxkVZ0kC3EnQ&oe=64A855FC",
+      name: "Darnlei Silva",
       role: "Embedded Developer ITM",
     },
     content: [
